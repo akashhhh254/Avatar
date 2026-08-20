@@ -1,0 +1,6 @@
+{
+  "name": "AVATAR",
+  "description": "A modern, secure, end-to-end encrypted real-time messaging application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
